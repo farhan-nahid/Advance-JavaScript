@@ -15,3 +15,8 @@ if (name) {
 
 //if number is 00 & the string is empty the default condition is false .
 //if i don't declare the variable value it is undefined & null is negative value.
+// if (number) {
+//   console.log("Condition is true");
+// } else {
+//   console.log("Condition is false");
+// }
