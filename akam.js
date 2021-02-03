@@ -1,4 +1,5 @@
 console.log("Starting Hack...");
+
 console.log("Hacking FBI 0%");
 console.log("Hacking FBI 20%");
 console.log("Hacking FBI 40%");
